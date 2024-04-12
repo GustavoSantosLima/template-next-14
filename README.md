@@ -1,6 +1,13 @@
 # Meu Projeto Next.js 14
 
-Este é um projeto Next.js 14 criado com TypeScript, utilizando Shadcn UI para estilização, AuthJS para autenticação e Prisma como ORM para interação com o banco de dados.
+Este é um projeto Next.js 14 utilizando as tecnologias:
+
+- Auth.js
+- Shadcn UI
+- TypeScript
+- Tailwind CSS
+- React Hook Form
+- Prisma
 
 ## Requisitos
 
@@ -13,13 +20,13 @@ Este é um projeto Next.js 14 criado com TypeScript, utilizando Shadcn UI para e
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/GustavoSantosLima/template-next-14.git
 ```
 
 2. Instale as dependências:
 
 ```bash
-cd seu-projeto
+cd template-next-14
 yarn install
 ```
 
